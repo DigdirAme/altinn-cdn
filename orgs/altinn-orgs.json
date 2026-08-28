@@ -897,6 +897,7 @@
             "orgnr": "998554640",
             "homepage": "https://www.statped.no/",
             "environments": [
+                "tt02"
             ],
             "contact": {
                 "phone": "+4793402196",
